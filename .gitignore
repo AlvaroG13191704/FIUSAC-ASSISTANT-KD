@@ -1,3 +1,7 @@
 .venv
 .env
 kd_data_llama3_3B
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
